@@ -1,3 +1,3 @@
 module.exports = (client, msg) => {
-  msg.reply('Pong!!!');
+  msg.reply('PONG!!');
 };

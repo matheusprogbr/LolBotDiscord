@@ -3,5 +3,9 @@
   "activity": {
     "name": "Consumindo uma API do MobaFire LOL",
     "type": "PLAYING"
+  },
+  "url": {
+    "champions": "http://localhost:3333/champions",
+    "championsFilter": "http://localhost:3333/champions?filter="
   }
 }
